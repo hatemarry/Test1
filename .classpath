@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry sourcepath="J2EE_LIBRARIES/j2ee1.3.jar" kind="var" rootpath="J2EE_LIBRARIES_SRCROOT" path="J2EE_LIBRARIES/j2ee1.3.jar"/>
+	<classpathentry kind="output" path="Web root/WEB-INF/classes"/>
+</classpath>

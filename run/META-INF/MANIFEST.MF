@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: BESGenDDM
+Created-By: 1.4.2_03 (Sun Microsystems Inc.)
+
