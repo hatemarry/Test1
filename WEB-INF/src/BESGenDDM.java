@@ -3789,6 +3789,7 @@ sbird.append("        " + entity1 + ".set" + initialCapital(actKey[i]) + "(" + e
  sbird.append(" \n");
      
  sbird.append("  \n");
+ sbird.append("  \n");
 
  sbird.append("    " + entityName1 + " " + entity1 + " = new " + entityName1 +"() ; \n");
  sbird.append("    box.copyToEntity("+ entity1 + "); \n");
